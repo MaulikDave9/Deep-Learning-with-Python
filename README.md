@@ -1,1 +1,1 @@
-# Projects Based on the **Deep Learning with Python** (François Chollet)
+# Deep Learning projects with Python - TensorFlow, Keras, PyTorch. 
